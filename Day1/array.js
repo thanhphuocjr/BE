@@ -20,3 +20,5 @@ const arr2 = [...arr1];
 arr2.push(3);
 console.log(arr1); // [1, 2]
 console.log(arr2); // [1, 2, 3]
+
+console(arr1);
